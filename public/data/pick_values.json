@@ -1,0 +1,1544 @@
+{
+  "1": {
+    "pick": 1,
+    "l1_value": 3000,
+    "l2_value": 3000,
+    "jj_value": 3000
+  },
+  "2": {
+    "pick": 2,
+    "l1_value": 2996.98,
+    "l2_value": 2999.97,
+    "jj_value": 2600
+  },
+  "3": {
+    "pick": 3,
+    "l1_value": 2991.78,
+    "l2_value": 2999.84,
+    "jj_value": 2200
+  },
+  "4": {
+    "pick": 4,
+    "l1_value": 2985.25,
+    "l2_value": 2999.59,
+    "jj_value": 1800
+  },
+  "5": {
+    "pick": 5,
+    "l1_value": 2977.68,
+    "l2_value": 2999.2,
+    "jj_value": 1700
+  },
+  "6": {
+    "pick": 6,
+    "l1_value": 2969.23,
+    "l2_value": 2998.64,
+    "jj_value": 1600
+  },
+  "7": {
+    "pick": 7,
+    "l1_value": 2960.01,
+    "l2_value": 2997.9,
+    "jj_value": 1500
+  },
+  "8": {
+    "pick": 8,
+    "l1_value": 2950.11,
+    "l2_value": 2996.97,
+    "jj_value": 1400
+  },
+  "9": {
+    "pick": 9,
+    "l1_value": 2939.6,
+    "l2_value": 2995.84,
+    "jj_value": 1350
+  },
+  "10": {
+    "pick": 10,
+    "l1_value": 2928.53,
+    "l2_value": 2994.5,
+    "jj_value": 1300
+  },
+  "11": {
+    "pick": 11,
+    "l1_value": 2916.94,
+    "l2_value": 2992.95,
+    "jj_value": 1250
+  },
+  "12": {
+    "pick": 12,
+    "l1_value": 2904.86,
+    "l2_value": 2991.16,
+    "jj_value": 1200
+  },
+  "13": {
+    "pick": 13,
+    "l1_value": 2892.35,
+    "l2_value": 2989.14,
+    "jj_value": 1150
+  },
+  "14": {
+    "pick": 14,
+    "l1_value": 2879.41,
+    "l2_value": 2986.87,
+    "jj_value": 1100
+  },
+  "15": {
+    "pick": 15,
+    "l1_value": 2866.09,
+    "l2_value": 2984.35,
+    "jj_value": 1050
+  },
+  "16": {
+    "pick": 16,
+    "l1_value": 2852.39,
+    "l2_value": 2981.58,
+    "jj_value": 1000
+  },
+  "17": {
+    "pick": 17,
+    "l1_value": 2838.36,
+    "l2_value": 2978.54,
+    "jj_value": 950
+  },
+  "18": {
+    "pick": 18,
+    "l1_value": 2824,
+    "l2_value": 2975.24,
+    "jj_value": 900
+  },
+  "19": {
+    "pick": 19,
+    "l1_value": 2809.33,
+    "l2_value": 2971.66,
+    "jj_value": 875
+  },
+  "20": {
+    "pick": 20,
+    "l1_value": 2794.38,
+    "l2_value": 2967.81,
+    "jj_value": 850
+  },
+  "21": {
+    "pick": 21,
+    "l1_value": 2779.15,
+    "l2_value": 2963.67,
+    "jj_value": 800
+  },
+  "22": {
+    "pick": 22,
+    "l1_value": 2763.67,
+    "l2_value": 2959.24,
+    "jj_value": 780
+  },
+  "23": {
+    "pick": 23,
+    "l1_value": 2747.94,
+    "l2_value": 2954.52,
+    "jj_value": 760
+  },
+  "24": {
+    "pick": 24,
+    "l1_value": 2731.98,
+    "l2_value": 2949.51,
+    "jj_value": 740
+  },
+  "25": {
+    "pick": 25,
+    "l1_value": 2715.81,
+    "l2_value": 2944.19,
+    "jj_value": 720
+  },
+  "26": {
+    "pick": 26,
+    "l1_value": 2699.43,
+    "l2_value": 2938.58,
+    "jj_value": 700
+  },
+  "27": {
+    "pick": 27,
+    "l1_value": 2682.86,
+    "l2_value": 2932.66,
+    "jj_value": 680
+  },
+  "28": {
+    "pick": 28,
+    "l1_value": 2666.11,
+    "l2_value": 2926.43,
+    "jj_value": 660
+  },
+  "29": {
+    "pick": 29,
+    "l1_value": 2649.19,
+    "l2_value": 2919.89,
+    "jj_value": 640
+  },
+  "30": {
+    "pick": 30,
+    "l1_value": 2632.1,
+    "l2_value": 2913.04,
+    "jj_value": 620
+  },
+  "31": {
+    "pick": 31,
+    "l1_value": 2614.86,
+    "l2_value": 2905.87,
+    "jj_value": 600
+  },
+  "32": {
+    "pick": 32,
+    "l1_value": 2597.49,
+    "l2_value": 2898.39,
+    "jj_value": 590
+  },
+  "33": {
+    "pick": 33,
+    "l1_value": 2579.97,
+    "l2_value": 2890.59,
+    "jj_value": 580
+  },
+  "34": {
+    "pick": 34,
+    "l1_value": 2562.33,
+    "l2_value": 2882.47,
+    "jj_value": 560
+  },
+  "35": {
+    "pick": 35,
+    "l1_value": 2544.58,
+    "l2_value": 2874.03,
+    "jj_value": 550
+  },
+  "36": {
+    "pick": 36,
+    "l1_value": 2526.72,
+    "l2_value": 2865.27,
+    "jj_value": 540
+  },
+  "37": {
+    "pick": 37,
+    "l1_value": 2508.75,
+    "l2_value": 2856.18,
+    "jj_value": 530
+  },
+  "38": {
+    "pick": 38,
+    "l1_value": 2490.7,
+    "l2_value": 2846.78,
+    "jj_value": 520
+  },
+  "39": {
+    "pick": 39,
+    "l1_value": 2472.55,
+    "l2_value": 2837.05,
+    "jj_value": 510
+  },
+  "40": {
+    "pick": 40,
+    "l1_value": 2454.33,
+    "l2_value": 2827,
+    "jj_value": 500
+  },
+  "41": {
+    "pick": 41,
+    "l1_value": 2436.03,
+    "l2_value": 2816.63,
+    "jj_value": 490
+  },
+  "42": {
+    "pick": 42,
+    "l1_value": 2417.67,
+    "l2_value": 2805.93,
+    "jj_value": 480
+  },
+  "43": {
+    "pick": 43,
+    "l1_value": 2399.25,
+    "l2_value": 2794.92,
+    "jj_value": 470
+  },
+  "44": {
+    "pick": 44,
+    "l1_value": 2380.77,
+    "l2_value": 2783.58,
+    "jj_value": 460
+  },
+  "45": {
+    "pick": 45,
+    "l1_value": 2362.25,
+    "l2_value": 2771.92,
+    "jj_value": 450
+  },
+  "46": {
+    "pick": 46,
+    "l1_value": 2343.68,
+    "l2_value": 2759.95,
+    "jj_value": 440
+  },
+  "47": {
+    "pick": 47,
+    "l1_value": 2325.08,
+    "l2_value": 2747.66,
+    "jj_value": 430
+  },
+  "48": {
+    "pick": 48,
+    "l1_value": 2306.45,
+    "l2_value": 2735.06,
+    "jj_value": 420
+  },
+  "49": {
+    "pick": 49,
+    "l1_value": 2287.79,
+    "l2_value": 2722.14,
+    "jj_value": 410
+  },
+  "50": {
+    "pick": 50,
+    "l1_value": 2269.11,
+    "l2_value": 2708.91,
+    "jj_value": 400
+  },
+  "51": {
+    "pick": 51,
+    "l1_value": 2250.41,
+    "l2_value": 2695.37,
+    "jj_value": 390
+  },
+  "52": {
+    "pick": 52,
+    "l1_value": 2231.71,
+    "l2_value": 2681.53,
+    "jj_value": 380
+  },
+  "53": {
+    "pick": 53,
+    "l1_value": 2212.99,
+    "l2_value": 2667.38,
+    "jj_value": 370
+  },
+  "54": {
+    "pick": 54,
+    "l1_value": 2194.28,
+    "l2_value": 2652.93,
+    "jj_value": 360
+  },
+  "55": {
+    "pick": 55,
+    "l1_value": 2175.56,
+    "l2_value": 2638.19,
+    "jj_value": 350
+  },
+  "56": {
+    "pick": 56,
+    "l1_value": 2156.86,
+    "l2_value": 2623.15,
+    "jj_value": 340
+  },
+  "57": {
+    "pick": 57,
+    "l1_value": 2138.16,
+    "l2_value": 2607.82,
+    "jj_value": 330
+  },
+  "58": {
+    "pick": 58,
+    "l1_value": 2119.48,
+    "l2_value": 2592.2,
+    "jj_value": 320
+  },
+  "59": {
+    "pick": 59,
+    "l1_value": 2100.81,
+    "l2_value": 2576.3,
+    "jj_value": 310
+  },
+  "60": {
+    "pick": 60,
+    "l1_value": 2082.17,
+    "l2_value": 2560.12,
+    "jj_value": 300
+  },
+  "61": {
+    "pick": 61,
+    "l1_value": 2063.56,
+    "l2_value": 2543.67,
+    "jj_value": 292
+  },
+  "62": {
+    "pick": 62,
+    "l1_value": 2044.97,
+    "l2_value": 2526.94,
+    "jj_value": 284
+  },
+  "63": {
+    "pick": 63,
+    "l1_value": 2026.42,
+    "l2_value": 2509.95,
+    "jj_value": 276
+  },
+  "64": {
+    "pick": 64,
+    "l1_value": 2007.91,
+    "l2_value": 2492.69,
+    "jj_value": 270
+  },
+  "65": {
+    "pick": 65,
+    "l1_value": 1989.43,
+    "l2_value": 2475.18,
+    "jj_value": 265
+  },
+  "66": {
+    "pick": 66,
+    "l1_value": 1971,
+    "l2_value": 2457.41,
+    "jj_value": 260
+  },
+  "67": {
+    "pick": 67,
+    "l1_value": 1952.61,
+    "l2_value": 2439.4,
+    "jj_value": 255
+  },
+  "68": {
+    "pick": 68,
+    "l1_value": 1934.27,
+    "l2_value": 2421.15,
+    "jj_value": 250
+  },
+  "69": {
+    "pick": 69,
+    "l1_value": 1915.99,
+    "l2_value": 2402.66,
+    "jj_value": 245
+  },
+  "70": {
+    "pick": 70,
+    "l1_value": 1897.75,
+    "l2_value": 2383.93,
+    "jj_value": 240
+  },
+  "71": {
+    "pick": 71,
+    "l1_value": 1879.58,
+    "l2_value": 2364.98,
+    "jj_value": 235
+  },
+  "72": {
+    "pick": 72,
+    "l1_value": 1861.46,
+    "l2_value": 2345.82,
+    "jj_value": 230
+  },
+  "73": {
+    "pick": 73,
+    "l1_value": 1843.41,
+    "l2_value": 2326.43,
+    "jj_value": 225
+  },
+  "74": {
+    "pick": 74,
+    "l1_value": 1825.42,
+    "l2_value": 2306.84,
+    "jj_value": 220
+  },
+  "75": {
+    "pick": 75,
+    "l1_value": 1807.5,
+    "l2_value": 2287.05,
+    "jj_value": 215
+  },
+  "76": {
+    "pick": 76,
+    "l1_value": 1789.65,
+    "l2_value": 2267.06,
+    "jj_value": 210
+  },
+  "77": {
+    "pick": 77,
+    "l1_value": 1771.87,
+    "l2_value": 2246.89,
+    "jj_value": 205
+  },
+  "78": {
+    "pick": 78,
+    "l1_value": 1754.16,
+    "l2_value": 2226.53,
+    "jj_value": 200
+  },
+  "79": {
+    "pick": 79,
+    "l1_value": 1736.53,
+    "l2_value": 2205.99,
+    "jj_value": 195
+  },
+  "80": {
+    "pick": 80,
+    "l1_value": 1718.98,
+    "l2_value": 2185.28,
+    "jj_value": 190
+  },
+  "81": {
+    "pick": 81,
+    "l1_value": 1701.5,
+    "l2_value": 2164.41,
+    "jj_value": 185
+  },
+  "82": {
+    "pick": 82,
+    "l1_value": 1684.11,
+    "l2_value": 2143.39,
+    "jj_value": 180
+  },
+  "83": {
+    "pick": 83,
+    "l1_value": 1666.8,
+    "l2_value": 2122.21,
+    "jj_value": 175
+  },
+  "84": {
+    "pick": 84,
+    "l1_value": 1649.58,
+    "l2_value": 2100.89,
+    "jj_value": 170
+  },
+  "85": {
+    "pick": 85,
+    "l1_value": 1632.44,
+    "l2_value": 2079.44,
+    "jj_value": 165
+  },
+  "86": {
+    "pick": 86,
+    "l1_value": 1615.39,
+    "l2_value": 2057.85,
+    "jj_value": 160
+  },
+  "87": {
+    "pick": 87,
+    "l1_value": 1598.43,
+    "l2_value": 2036.15,
+    "jj_value": 155
+  },
+  "88": {
+    "pick": 88,
+    "l1_value": 1581.57,
+    "l2_value": 2014.33,
+    "jj_value": 150
+  },
+  "89": {
+    "pick": 89,
+    "l1_value": 1564.79,
+    "l2_value": 1992.4,
+    "jj_value": 145
+  },
+  "90": {
+    "pick": 90,
+    "l1_value": 1548.11,
+    "l2_value": 1970.37,
+    "jj_value": 140
+  },
+  "91": {
+    "pick": 91,
+    "l1_value": 1531.53,
+    "l2_value": 1948.25,
+    "jj_value": 136
+  },
+  "92": {
+    "pick": 92,
+    "l1_value": 1515.04,
+    "l2_value": 1926.05,
+    "jj_value": 132
+  },
+  "93": {
+    "pick": 93,
+    "l1_value": 1498.65,
+    "l2_value": 1903.76,
+    "jj_value": 128
+  },
+  "94": {
+    "pick": 94,
+    "l1_value": 1482.36,
+    "l2_value": 1881.41,
+    "jj_value": 124
+  },
+  "95": {
+    "pick": 95,
+    "l1_value": 1466.17,
+    "l2_value": 1858.99,
+    "jj_value": 120
+  },
+  "96": {
+    "pick": 96,
+    "l1_value": 1450.08,
+    "l2_value": 1836.51,
+    "jj_value": 116
+  },
+  "97": {
+    "pick": 97,
+    "l1_value": 1434.09,
+    "l2_value": 1813.99,
+    "jj_value": 112
+  },
+  "98": {
+    "pick": 98,
+    "l1_value": 1418.2,
+    "l2_value": 1791.42,
+    "jj_value": 108
+  },
+  "99": {
+    "pick": 99,
+    "l1_value": 1402.42,
+    "l2_value": 1768.82,
+    "jj_value": 104
+  },
+  "100": {
+    "pick": 100,
+    "l1_value": 1386.75,
+    "l2_value": 1746.19,
+    "jj_value": 100
+  },
+  "101": {
+    "pick": 101,
+    "l1_value": 1371.18,
+    "l2_value": 1723.54,
+    "jj_value": 100
+  },
+  "102": {
+    "pick": 102,
+    "l1_value": 1355.72,
+    "l2_value": 1700.88,
+    "jj_value": 96
+  },
+  "103": {
+    "pick": 103,
+    "l1_value": 1340.36,
+    "l2_value": 1678.21,
+    "jj_value": 92
+  },
+  "104": {
+    "pick": 104,
+    "l1_value": 1325.11,
+    "l2_value": 1655.55,
+    "jj_value": 88
+  },
+  "105": {
+    "pick": 105,
+    "l1_value": 1309.97,
+    "l2_value": 1632.89,
+    "jj_value": 86
+  },
+  "106": {
+    "pick": 106,
+    "l1_value": 1294.94,
+    "l2_value": 1610.25,
+    "jj_value": 84
+  },
+  "107": {
+    "pick": 107,
+    "l1_value": 1280.02,
+    "l2_value": 1587.63,
+    "jj_value": 82
+  },
+  "108": {
+    "pick": 108,
+    "l1_value": 1265.21,
+    "l2_value": 1565.03,
+    "jj_value": 80
+  },
+  "109": {
+    "pick": 109,
+    "l1_value": 1250.51,
+    "l2_value": 1542.48,
+    "jj_value": 78
+  },
+  "110": {
+    "pick": 110,
+    "l1_value": 1235.92,
+    "l2_value": 1519.97,
+    "jj_value": 76
+  },
+  "111": {
+    "pick": 111,
+    "l1_value": 1221.44,
+    "l2_value": 1497.51,
+    "jj_value": 74
+  },
+  "112": {
+    "pick": 112,
+    "l1_value": 1207.08,
+    "l2_value": 1475.1,
+    "jj_value": 72
+  },
+  "113": {
+    "pick": 113,
+    "l1_value": 1192.82,
+    "l2_value": 1452.76,
+    "jj_value": 70
+  },
+  "114": {
+    "pick": 114,
+    "l1_value": 1178.68,
+    "l2_value": 1430.48,
+    "jj_value": 68
+  },
+  "115": {
+    "pick": 115,
+    "l1_value": 1164.66,
+    "l2_value": 1408.28,
+    "jj_value": 66
+  },
+  "116": {
+    "pick": 116,
+    "l1_value": 1150.74,
+    "l2_value": 1386.17,
+    "jj_value": 64
+  },
+  "117": {
+    "pick": 117,
+    "l1_value": 1136.94,
+    "l2_value": 1364.14,
+    "jj_value": 62
+  },
+  "118": {
+    "pick": 118,
+    "l1_value": 1123.25,
+    "l2_value": 1342.21,
+    "jj_value": 60
+  },
+  "119": {
+    "pick": 119,
+    "l1_value": 1109.68,
+    "l2_value": 1320.37,
+    "jj_value": 58
+  },
+  "120": {
+    "pick": 120,
+    "l1_value": 1096.21,
+    "l2_value": 1298.65,
+    "jj_value": 56
+  },
+  "121": {
+    "pick": 121,
+    "l1_value": 1082.87,
+    "l2_value": 1277.03,
+    "jj_value": 54
+  },
+  "122": {
+    "pick": 122,
+    "l1_value": 1069.63,
+    "l2_value": 1255.53,
+    "jj_value": 52
+  },
+  "123": {
+    "pick": 123,
+    "l1_value": 1056.51,
+    "l2_value": 1234.16,
+    "jj_value": 50
+  },
+  "124": {
+    "pick": 124,
+    "l1_value": 1043.51,
+    "l2_value": 1212.91,
+    "jj_value": 49
+  },
+  "125": {
+    "pick": 125,
+    "l1_value": 1030.62,
+    "l2_value": 1191.8,
+    "jj_value": 48
+  },
+  "126": {
+    "pick": 126,
+    "l1_value": 1017.84,
+    "l2_value": 1170.82,
+    "jj_value": 47
+  },
+  "127": {
+    "pick": 127,
+    "l1_value": 1005.17,
+    "l2_value": 1149.99,
+    "jj_value": 46
+  },
+  "128": {
+    "pick": 128,
+    "l1_value": 992.62,
+    "l2_value": 1129.31,
+    "jj_value": 45
+  },
+  "129": {
+    "pick": 129,
+    "l1_value": 980.18,
+    "l2_value": 1108.78,
+    "jj_value": 44
+  },
+  "130": {
+    "pick": 130,
+    "l1_value": 967.86,
+    "l2_value": 1088.41,
+    "jj_value": 43
+  },
+  "131": {
+    "pick": 131,
+    "l1_value": 955.65,
+    "l2_value": 1068.2,
+    "jj_value": 42
+  },
+  "132": {
+    "pick": 132,
+    "l1_value": 943.55,
+    "l2_value": 1048.16,
+    "jj_value": 41
+  },
+  "133": {
+    "pick": 133,
+    "l1_value": 931.56,
+    "l2_value": 1028.29,
+    "jj_value": 40
+  },
+  "134": {
+    "pick": 134,
+    "l1_value": 919.69,
+    "l2_value": 1008.6,
+    "jj_value": 39.5
+  },
+  "135": {
+    "pick": 135,
+    "l1_value": 907.93,
+    "l2_value": 989.08,
+    "jj_value": 39
+  },
+  "136": {
+    "pick": 136,
+    "l1_value": 896.28,
+    "l2_value": 969.75,
+    "jj_value": 38.5
+  },
+  "137": {
+    "pick": 137,
+    "l1_value": 884.74,
+    "l2_value": 950.6,
+    "jj_value": 38
+  },
+  "138": {
+    "pick": 138,
+    "l1_value": 873.32,
+    "l2_value": 931.64,
+    "jj_value": 37.5
+  },
+  "139": {
+    "pick": 139,
+    "l1_value": 862,
+    "l2_value": 912.88,
+    "jj_value": 37
+  },
+  "140": {
+    "pick": 140,
+    "l1_value": 850.8,
+    "l2_value": 894.31,
+    "jj_value": 36.5
+  },
+  "141": {
+    "pick": 141,
+    "l1_value": 839.71,
+    "l2_value": 875.94,
+    "jj_value": 36
+  },
+  "142": {
+    "pick": 142,
+    "l1_value": 828.72,
+    "l2_value": 857.77,
+    "jj_value": 35.5
+  },
+  "143": {
+    "pick": 143,
+    "l1_value": 817.85,
+    "l2_value": 839.81,
+    "jj_value": 35
+  },
+  "144": {
+    "pick": 144,
+    "l1_value": 807.08,
+    "l2_value": 822.05,
+    "jj_value": 34.5
+  },
+  "145": {
+    "pick": 145,
+    "l1_value": 796.43,
+    "l2_value": 804.51,
+    "jj_value": 34
+  },
+  "146": {
+    "pick": 146,
+    "l1_value": 785.88,
+    "l2_value": 787.17,
+    "jj_value": 33.5
+  },
+  "147": {
+    "pick": 147,
+    "l1_value": 775.44,
+    "l2_value": 770.05,
+    "jj_value": 33
+  },
+  "148": {
+    "pick": 148,
+    "l1_value": 765.11,
+    "l2_value": 753.15,
+    "jj_value": 32.6
+  },
+  "149": {
+    "pick": 149,
+    "l1_value": 754.88,
+    "l2_value": 736.46,
+    "jj_value": 32.3
+  },
+  "150": {
+    "pick": 150,
+    "l1_value": 744.77,
+    "l2_value": 720,
+    "jj_value": 31.8
+  },
+  "151": {
+    "pick": 151,
+    "l1_value": 734.75,
+    "l2_value": 703.75,
+    "jj_value": 31.4
+  },
+  "152": {
+    "pick": 152,
+    "l1_value": 724.84,
+    "l2_value": 687.73,
+    "jj_value": 31
+  },
+  "153": {
+    "pick": 153,
+    "l1_value": 715.04,
+    "l2_value": 671.93,
+    "jj_value": 30.6
+  },
+  "154": {
+    "pick": 154,
+    "l1_value": 705.34,
+    "l2_value": 656.35,
+    "jj_value": 30.2
+  },
+  "155": {
+    "pick": 155,
+    "l1_value": 695.75,
+    "l2_value": 641,
+    "jj_value": 29.8
+  },
+  "156": {
+    "pick": 156,
+    "l1_value": 686.26,
+    "l2_value": 625.88,
+    "jj_value": 29.4
+  },
+  "157": {
+    "pick": 157,
+    "l1_value": 676.87,
+    "l2_value": 610.98,
+    "jj_value": 29
+  },
+  "158": {
+    "pick": 158,
+    "l1_value": 667.58,
+    "l2_value": 596.31,
+    "jj_value": 28.6
+  },
+  "159": {
+    "pick": 159,
+    "l1_value": 658.4,
+    "l2_value": 581.87,
+    "jj_value": 28.2
+  },
+  "160": {
+    "pick": 160,
+    "l1_value": 649.32,
+    "l2_value": 567.66,
+    "jj_value": 27.8
+  },
+  "161": {
+    "pick": 161,
+    "l1_value": 640.33,
+    "l2_value": 553.68,
+    "jj_value": 27.4
+  },
+  "162": {
+    "pick": 162,
+    "l1_value": 631.45,
+    "l2_value": 539.92,
+    "jj_value": 27
+  },
+  "163": {
+    "pick": 163,
+    "l1_value": 622.66,
+    "l2_value": 526.4,
+    "jj_value": 26.6
+  },
+  "164": {
+    "pick": 164,
+    "l1_value": 613.98,
+    "l2_value": 513.1,
+    "jj_value": 26.2
+  },
+  "165": {
+    "pick": 165,
+    "l1_value": 605.39,
+    "l2_value": 500.03,
+    "jj_value": 25.8
+  },
+  "166": {
+    "pick": 166,
+    "l1_value": 596.9,
+    "l2_value": 487.18,
+    "jj_value": 25.4
+  },
+  "167": {
+    "pick": 167,
+    "l1_value": 588.51,
+    "l2_value": 474.57,
+    "jj_value": 25
+  },
+  "168": {
+    "pick": 168,
+    "l1_value": 580.21,
+    "l2_value": 462.18,
+    "jj_value": 24.6
+  },
+  "169": {
+    "pick": 169,
+    "l1_value": 572,
+    "l2_value": 450.01,
+    "jj_value": 24.2
+  },
+  "170": {
+    "pick": 170,
+    "l1_value": 563.9,
+    "l2_value": 438.07,
+    "jj_value": 23.8
+  },
+  "171": {
+    "pick": 171,
+    "l1_value": 555.88,
+    "l2_value": 426.35,
+    "jj_value": 23.4
+  },
+  "172": {
+    "pick": 172,
+    "l1_value": 547.96,
+    "l2_value": 414.86,
+    "jj_value": 23
+  },
+  "173": {
+    "pick": 173,
+    "l1_value": 540.13,
+    "l2_value": 403.58,
+    "jj_value": 22.6
+  },
+  "174": {
+    "pick": 174,
+    "l1_value": 532.4,
+    "l2_value": 392.53,
+    "jj_value": 22.2
+  },
+  "175": {
+    "pick": 175,
+    "l1_value": 524.75,
+    "l2_value": 381.69,
+    "jj_value": 21.8
+  },
+  "176": {
+    "pick": 176,
+    "l1_value": 517.2,
+    "l2_value": 371.08,
+    "jj_value": 21.4
+  },
+  "177": {
+    "pick": 177,
+    "l1_value": 509.73,
+    "l2_value": 360.67,
+    "jj_value": 21
+  },
+  "178": {
+    "pick": 178,
+    "l1_value": 502.36,
+    "l2_value": 350.48,
+    "jj_value": 20.6
+  },
+  "179": {
+    "pick": 179,
+    "l1_value": 495.07,
+    "l2_value": 340.5,
+    "jj_value": 19.8
+  },
+  "180": {
+    "pick": 180,
+    "l1_value": 487.87,
+    "l2_value": 330.74,
+    "jj_value": 19.4
+  },
+  "181": {
+    "pick": 181,
+    "l1_value": 480.76,
+    "l2_value": 321.18,
+    "jj_value": 19
+  },
+  "182": {
+    "pick": 182,
+    "l1_value": 473.74,
+    "l2_value": 311.82,
+    "jj_value": 18.6
+  },
+  "183": {
+    "pick": 183,
+    "l1_value": 466.8,
+    "l2_value": 302.67,
+    "jj_value": 18.2
+  },
+  "184": {
+    "pick": 184,
+    "l1_value": 459.94,
+    "l2_value": 293.73,
+    "jj_value": 17.8
+  },
+  "185": {
+    "pick": 185,
+    "l1_value": 453.17,
+    "l2_value": 284.98,
+    "jj_value": 17.4
+  },
+  "186": {
+    "pick": 186,
+    "l1_value": 446.49,
+    "l2_value": 276.43,
+    "jj_value": 17
+  },
+  "187": {
+    "pick": 187,
+    "l1_value": 439.88,
+    "l2_value": 268.08,
+    "jj_value": 16.6
+  },
+  "188": {
+    "pick": 188,
+    "l1_value": 433.36,
+    "l2_value": 259.92,
+    "jj_value": 16.2
+  },
+  "189": {
+    "pick": 189,
+    "l1_value": 426.92,
+    "l2_value": 251.95,
+    "jj_value": 15.8
+  },
+  "190": {
+    "pick": 190,
+    "l1_value": 420.56,
+    "l2_value": 244.17,
+    "jj_value": 15.4
+  },
+  "191": {
+    "pick": 191,
+    "l1_value": 414.28,
+    "l2_value": 236.58,
+    "jj_value": 15
+  },
+  "192": {
+    "pick": 192,
+    "l1_value": 408.08,
+    "l2_value": 229.17,
+    "jj_value": 14.6
+  },
+  "193": {
+    "pick": 193,
+    "l1_value": 401.96,
+    "l2_value": 221.94,
+    "jj_value": 14.2
+  },
+  "194": {
+    "pick": 194,
+    "l1_value": 395.92,
+    "l2_value": 214.89,
+    "jj_value": 13.8
+  },
+  "195": {
+    "pick": 195,
+    "l1_value": 389.95,
+    "l2_value": 208.01,
+    "jj_value": 13.4
+  },
+  "196": {
+    "pick": 196,
+    "l1_value": 384.06,
+    "l2_value": 201.31,
+    "jj_value": 13
+  },
+  "197": {
+    "pick": 197,
+    "l1_value": 378.25,
+    "l2_value": 194.78,
+    "jj_value": 12.6
+  },
+  "198": {
+    "pick": 198,
+    "l1_value": 372.51,
+    "l2_value": 188.42,
+    "jj_value": 12.2
+  },
+  "199": {
+    "pick": 199,
+    "l1_value": 366.85,
+    "l2_value": 182.22,
+    "jj_value": 11.8
+  },
+  "200": {
+    "pick": 200,
+    "l1_value": 361.25,
+    "l2_value": 176.19,
+    "jj_value": 11.4
+  },
+  "201": {
+    "pick": 201,
+    "l1_value": 355.74,
+    "l2_value": 170.32,
+    "jj_value": 11
+  },
+  "202": {
+    "pick": 202,
+    "l1_value": 350.29,
+    "l2_value": 164.6,
+    "jj_value": 10.6
+  },
+  "203": {
+    "pick": 203,
+    "l1_value": 344.92,
+    "l2_value": 159.04,
+    "jj_value": 10.2
+  },
+  "204": {
+    "pick": 204,
+    "l1_value": 339.61,
+    "l2_value": 153.63,
+    "jj_value": 9.8
+  },
+  "205": {
+    "pick": 205,
+    "l1_value": 334.38,
+    "l2_value": 148.37,
+    "jj_value": 9.4
+  },
+  "206": {
+    "pick": 206,
+    "l1_value": 329.22,
+    "l2_value": 143.26,
+    "jj_value": 9
+  },
+  "207": {
+    "pick": 207,
+    "l1_value": 324.12,
+    "l2_value": 138.29,
+    "jj_value": 8.6
+  },
+  "208": {
+    "pick": 208,
+    "l1_value": 319.1,
+    "l2_value": 133.46,
+    "jj_value": 8.2
+  },
+  "209": {
+    "pick": 209,
+    "l1_value": 314.14,
+    "l2_value": 128.77,
+    "jj_value": 7.8
+  },
+  "210": {
+    "pick": 210,
+    "l1_value": 309.25,
+    "l2_value": 124.21,
+    "jj_value": 7.4
+  },
+  "211": {
+    "pick": 211,
+    "l1_value": 304.42,
+    "l2_value": 119.79,
+    "jj_value": 7
+  },
+  "212": {
+    "pick": 212,
+    "l1_value": 299.66,
+    "l2_value": 115.49,
+    "jj_value": 6.6
+  },
+  "213": {
+    "pick": 213,
+    "l1_value": 294.96,
+    "l2_value": 111.33,
+    "jj_value": 6.2
+  },
+  "214": {
+    "pick": 214,
+    "l1_value": 290.33,
+    "l2_value": 107.29,
+    "jj_value": 5.8
+  },
+  "215": {
+    "pick": 215,
+    "l1_value": 285.76,
+    "l2_value": 103.37,
+    "jj_value": 5.4
+  },
+  "216": {
+    "pick": 216,
+    "l1_value": 281.25,
+    "l2_value": 99.57,
+    "jj_value": 5
+  },
+  "217": {
+    "pick": 217,
+    "l1_value": 276.81,
+    "l2_value": 95.89,
+    "jj_value": 4.6
+  },
+  "218": {
+    "pick": 218,
+    "l1_value": 272.42,
+    "l2_value": 92.32,
+    "jj_value": 4.2
+  },
+  "219": {
+    "pick": 219,
+    "l1_value": 268.1,
+    "l2_value": 88.86,
+    "jj_value": 3.8
+  },
+  "220": {
+    "pick": 220,
+    "l1_value": 263.84,
+    "l2_value": 85.51,
+    "jj_value": 3
+  },
+  "221": {
+    "pick": 221,
+    "l1_value": 259.63,
+    "l2_value": 82.27,
+    "jj_value": 2.6
+  },
+  "222": {
+    "pick": 222,
+    "l1_value": 255.49,
+    "l2_value": 79.13,
+    "jj_value": 2.3
+  },
+  "223": {
+    "pick": 223,
+    "l1_value": 251.4,
+    "l2_value": 76.09,
+    "jj_value": 2
+  },
+  "224": {
+    "pick": 224,
+    "l1_value": 247.37,
+    "l2_value": 73.16,
+    "jj_value": 1.8
+  },
+  "225": {
+    "pick": 225,
+    "l1_value": 243.4,
+    "l2_value": 70.31,
+    "jj_value": 1.6
+  },
+  "226": {
+    "pick": 226,
+    "l1_value": 239.48,
+    "l2_value": 67.57,
+    "jj_value": 1.4
+  },
+  "227": {
+    "pick": 227,
+    "l1_value": 235.62,
+    "l2_value": 64.91,
+    "jj_value": 1.2
+  },
+  "228": {
+    "pick": 228,
+    "l1_value": 231.82,
+    "l2_value": 62.34,
+    "jj_value": 1
+  },
+  "229": {
+    "pick": 229,
+    "l1_value": 228.06,
+    "l2_value": 59.86,
+    "jj_value": 1
+  },
+  "230": {
+    "pick": 230,
+    "l1_value": 224.37,
+    "l2_value": 57.47,
+    "jj_value": 1
+  },
+  "231": {
+    "pick": 231,
+    "l1_value": 220.72,
+    "l2_value": 55.15,
+    "jj_value": 1
+  },
+  "232": {
+    "pick": 232,
+    "l1_value": 217.13,
+    "l2_value": 52.92,
+    "jj_value": 1
+  },
+  "233": {
+    "pick": 233,
+    "l1_value": 213.58,
+    "l2_value": 50.76,
+    "jj_value": 1
+  },
+  "234": {
+    "pick": 234,
+    "l1_value": 210.09,
+    "l2_value": 48.69,
+    "jj_value": 1
+  },
+  "235": {
+    "pick": 235,
+    "l1_value": 206.65,
+    "l2_value": 46.68,
+    "jj_value": 1
+  },
+  "236": {
+    "pick": 236,
+    "l1_value": 203.26,
+    "l2_value": 44.75,
+    "jj_value": 1
+  },
+  "237": {
+    "pick": 237,
+    "l1_value": 199.92,
+    "l2_value": 42.88,
+    "jj_value": 1
+  },
+  "238": {
+    "pick": 238,
+    "l1_value": 196.63,
+    "l2_value": 41.08,
+    "jj_value": 1
+  },
+  "239": {
+    "pick": 239,
+    "l1_value": 193.39,
+    "l2_value": 39.35,
+    "jj_value": 1
+  },
+  "240": {
+    "pick": 240,
+    "l1_value": 190.19,
+    "l2_value": 37.68,
+    "jj_value": 1
+  },
+  "241": {
+    "pick": 241,
+    "l1_value": 187.04,
+    "l2_value": 36.08,
+    "jj_value": 1
+  },
+  "242": {
+    "pick": 242,
+    "l1_value": 183.94,
+    "l2_value": 34.53,
+    "jj_value": 1
+  },
+  "243": {
+    "pick": 243,
+    "l1_value": 180.88,
+    "l2_value": 33.04,
+    "jj_value": 1
+  },
+  "244": {
+    "pick": 244,
+    "l1_value": 177.87,
+    "l2_value": 31.61,
+    "jj_value": 1
+  },
+  "245": {
+    "pick": 245,
+    "l1_value": 174.9,
+    "l2_value": 30.23,
+    "jj_value": 1
+  },
+  "246": {
+    "pick": 246,
+    "l1_value": 171.98,
+    "l2_value": 28.91,
+    "jj_value": 1
+  },
+  "247": {
+    "pick": 247,
+    "l1_value": 169.1,
+    "l2_value": 27.63,
+    "jj_value": 1
+  },
+  "248": {
+    "pick": 248,
+    "l1_value": 166.27,
+    "l2_value": 26.41,
+    "jj_value": 1
+  },
+  "249": {
+    "pick": 249,
+    "l1_value": 163.47,
+    "l2_value": 25.23,
+    "jj_value": 1
+  },
+  "250": {
+    "pick": 250,
+    "l1_value": 160.72,
+    "l2_value": 24.1,
+    "jj_value": 1
+  },
+  "251": {
+    "pick": 251,
+    "l1_value": 158.01,
+    "l2_value": 23.02,
+    "jj_value": 1
+  },
+  "252": {
+    "pick": 252,
+    "l1_value": 155.34,
+    "l2_value": 21.97,
+    "jj_value": 1
+  },
+  "253": {
+    "pick": 253,
+    "l1_value": 152.72,
+    "l2_value": 20.97,
+    "jj_value": 1
+  },
+  "254": {
+    "pick": 254,
+    "l1_value": 150.13,
+    "l2_value": 20.01,
+    "jj_value": 1
+  },
+  "255": {
+    "pick": 255,
+    "l1_value": 147.58,
+    "l2_value": 19.09,
+    "jj_value": 1
+  },
+  "256": {
+    "pick": 256,
+    "l1_value": 145.07,
+    "l2_value": 18.21,
+    "jj_value": 1
+  },
+  "257": {
+    "pick": 257,
+    "l1_value": 142.6,
+    "l2_value": 17.36,
+    "jj_value": 1
+  }
+}
