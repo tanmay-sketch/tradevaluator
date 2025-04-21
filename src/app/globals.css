@@ -126,3 +126,14 @@
   background-color: #000; /* Pure black */
   border-color: hsl(0, 0%, 15%); /* Match the border variable */
 }
+
+/* Fix dropdown styling in both light and dark mode */
+[data-slot="dropdown-menu-content"] {
+  background-color: white !important; /* Solid white background */
+  border-color: hsl(214.3, 31.8%, 91.4%); /* Match the border variable */
+}
+
+.dark [data-slot="dropdown-menu-content"] {
+  background-color: #000 !important; /* Pure black */
+  border-color: hsl(0, 0%, 15%); /* Match the border variable */
+}

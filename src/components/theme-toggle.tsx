@@ -23,16 +23,16 @@ export function ThemeToggle() {
           <span className="sr-only">Toggle theme</span>
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent align="end" className="rounded-lg dark:bg-gray-800 dark:border-gray-700">
-        <DropdownMenuItem onClick={() => setTheme("light")} className="dark:hover:bg-gray-700 dark:text-gray-200">
+      <DropdownMenuContent align="end" className="rounded-lg bg-white border-gray-200 dark:bg-black dark:border-gray-700">
+        <DropdownMenuItem onClick={() => setTheme("light")} className="hover:bg-gray-100 dark:hover:bg-gray-900 dark:text-gray-200">
           <SunIcon className="mr-2 h-4 w-4" />
           <span>Light</span>
         </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => setTheme("dark")} className="dark:hover:bg-gray-700 dark:text-gray-200">
+        <DropdownMenuItem onClick={() => setTheme("dark")} className="hover:bg-gray-100 dark:hover:bg-gray-900 dark:text-gray-200">
           <MoonIcon className="mr-2 h-4 w-4" />
           <span>Dark</span>
         </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => setTheme("system")} className="dark:hover:bg-gray-700 dark:text-gray-200">
+        <DropdownMenuItem onClick={() => setTheme("system")} className="hover:bg-gray-100 dark:hover:bg-gray-900 dark:text-gray-200">
           <ComputerIcon className="mr-2 h-4 w-4" />
           <span>System</span>
         </DropdownMenuItem>
